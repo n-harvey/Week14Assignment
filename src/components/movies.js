@@ -15,7 +15,7 @@ export default class Movie extends React.Component{
             <div className="row shadow-lg">
                 <div className="col col-2 ">
                     <div className="row">
-                        <img src={this.props.posterUrl} alt={this.props.name +" Movie Poster"}></img>
+                        <img src={this.props.posterUrl} alt={this.props.name +" Movie Poster"}  ></img>
                     </div>
                     <div className="row text-center">
                         <h5>{this.props.name}</h5>

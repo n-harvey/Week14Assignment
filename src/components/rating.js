@@ -25,3 +25,6 @@ const StarRating = () => {
   };
 
   export default StarRating
+
+  // I could not figure this part out
+  // Code from https://dev.to/michaelburrows/create-a-custom-react-star-rating-component-5o6
